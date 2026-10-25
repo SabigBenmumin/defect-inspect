@@ -1,0 +1,22 @@
+# data & outputs
+data/raw/
+data/processed/
+runs/
+outputs/
+*.onnx
+*.engine
+*.pt
+*.pth
+mlruns/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+.pytest_cache/
+.ruff_cache/
+
+# os
+.DS_Store
+Thumbs.db

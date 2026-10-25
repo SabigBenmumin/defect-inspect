@@ -1,0 +1,19 @@
+# Install torch + torchvision first, matching your CUDA version:
+#   https://pytorch.org/get-started/locally/
+numpy
+pandas
+opencv-python
+pillow
+matplotlib
+scikit-learn
+scipy
+albumentations
+segmentation-models-pytorch
+ultralytics
+onnx
+onnxruntime
+pyyaml
+tqdm
+jupyter
+pytest
+ruff
