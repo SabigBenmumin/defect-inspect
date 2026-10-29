@@ -1,5 +1,6 @@
 # data & outputs
 data/raw/
+data/KolektorSDD2
 data/processed/
 runs/
 outputs/
